@@ -14,4 +14,5 @@
 * Nếu không thể di chuyển được nữa game over
 * Chọn Try Again để chơi lại
 # Video demo game
+* Xem hướng dẫn qua video tại [đây](https://drive.google.com/file/d/1aScLbISq02fMdsf5BF7yJEdDSQ35TCRR/view)
 
